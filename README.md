@@ -1,9 +1,7 @@
 ## Hi there👋! I'm [Piyush Rajput!](https://piyushrajput.netlify.app) 🙋‍♂️
 
 - 💻 I'm a Full Stack Web Developer 🚀 from India.
-/*- 🔭 I’m currently working on [PaintBazar E-Commerce Website](https://github.com/imPiyushrRajput/PaintBazar).*/
 - 🌱 I’m currently learning more about MERN Stack, Python - Django and Kotlin.
-/*- 👯 I’m looking to collaborate on [PaintBazar E-Commerce Website](https://github.com/imPiyushrRajput/PaintBazar).*/
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: piyushrajput1846@gmail.com.
 
