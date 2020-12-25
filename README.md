@@ -1,4 +1,4 @@
-## Hi there👋! I'm [Piyush Rajput!](https://piyushrajput.netlify.app) 🙋‍♂️
+## Hi there👋! I'm [Piyush Rajput!](https://rajputpiyush.com) 🙋‍♂️
 
 - 💻 I'm a Full Stack Web Developer 🚀 from India.
 - 🌱 I’m currently learning more about MERN Stack, Python - Django and Kotlin.
