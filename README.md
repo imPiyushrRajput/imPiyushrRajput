@@ -37,5 +37,7 @@
   <img align="left" alt="Piyush's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imPiyushrRajput)](https://github.com/anuraghazra/github-readme-stats)
+<div class="text-center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imPiyushrRajput)](https://github.com/anuraghazra/github-readme-stats)
+ </div
 
