@@ -30,9 +30,3 @@
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Node.js](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js&logoColor=339933)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
-  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imPiyushrRajput&layout=compact)]()
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=imPiyushrRajput&show_icons=true&theme=radical)
